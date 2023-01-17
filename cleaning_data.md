@@ -4,6 +4,8 @@ Removing the columns that only have null values
 
 Removing columns containing duplicate data
 
+Adjusting prices
+
 
 
 
