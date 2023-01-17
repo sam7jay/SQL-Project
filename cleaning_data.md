@@ -1,8 +1,9 @@
 ## What issues will you address by cleaning the data?
 
 Removing the columns that only have null values
+
 Removing columns containing duplicate data
-C
+
 
 
 
