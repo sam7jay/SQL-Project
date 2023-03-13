@@ -31,5 +31,5 @@ Time-consuming
 
 To be more efficient working on similar projects spend more time on planning my process to save time
 
-To do more complex quries
+To do more complex queries
 
