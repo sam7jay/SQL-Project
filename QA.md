@@ -9,7 +9,6 @@
 -Had to Adjusting prices
 
 ## QA Process:
-Describe your QA process and include the SQL queries used to execute it.
 
 -Validation by running sections of code in isolation
 
